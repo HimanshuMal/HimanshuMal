@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms, MERN, SQL, Spring Framework**
 
-- 📫 How to reach me **mal.h@northeastern.edu**
+- 📫 How to reach me **himanshumal21@gmail.com**
 
 - ⚡ Fun fact **James Gosling, the creator of Java, was inspired by his love for coffee and chose the name while sipping the beverage.**
 
